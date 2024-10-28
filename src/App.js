@@ -1,7 +1,7 @@
 import React from "react";
 import Weather from "./Weather";
 import './App.css';
-import './pic.img';
+import './wimage.jpg';
 
  export default function App() {
   return (
