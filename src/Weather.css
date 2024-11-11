@@ -33,13 +33,6 @@
     margin-left: 10px;
   }
   
-  .Weather .icon {
-    height: 64px;
-    width: 64px;
-    margin-right: 10px;
-    display: inline block;
-  }
-  
   .Weather .unit {
     color: rgb(33, 33, 33);
     font-size: 16px;
